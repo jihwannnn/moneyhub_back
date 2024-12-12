@@ -13,8 +13,10 @@
         "firebase-debug.log",
         "firebase-debug.*.log",
         "*.local"
-      ]
+      ],
+      "region": "asia-northeast3"
     }
+    
   ],
   "emulators": {
     "auth": {
